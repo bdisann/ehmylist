@@ -7,6 +7,9 @@ For Information Gathering:
 5) Our Own Email Scraper - - https://mega.nz/folder/sMoUmTDI#SVy3plBr4DzTQEeaOgbCxw Decryption key for Mega link - SVy3plBr4DzTQEeaOgbCxw
 6) Hunter.io - email gathering
 
+#For more information about top 25 information gathering tools
+https://securitytrails.com/blog/osint-tools
+
 For Scanning:
 6) Netdiscover - https://kalilinuxtutorials.com/netdiscover-scan-live-hosts-network/ 7) Nmap - https://nmap.org/
 8) Zenmap - https://nmap.org/zenmap/
